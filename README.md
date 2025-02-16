@@ -48,9 +48,3 @@ This feature parses a given URL into its components such as protocol, domain, pa
 4. python3 WebHunter.py 
 ---
 
-## 👨‍💻 Contact:
-
-Feel free to reach out for support or collaboration:
-
-- Instagram: [@syed_muneeb_rehman](https://instagram.com/syed_muneeb_rehman) 📱
-- LinkedIn: [Syed Muneeb Shah](https://www.linkedin.com/in/syed-muneeb-shah-4b5424266/) 🔗
